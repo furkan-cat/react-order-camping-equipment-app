@@ -1,4 +1,4 @@
-# react-form-app
+# react-order-camping-equipment-app
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Type to input any film that you want to search. 
+Chose product and add your card. In the card section you can also increase and decrease number of product.
 
 [Project-Demo](https://react-order-camping-equipment-app.netlify.app/)
 
