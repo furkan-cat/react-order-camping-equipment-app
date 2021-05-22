@@ -15,7 +15,7 @@ const DUMMY_MEALS = [
     name: "Coleman 6-Person Skydome",
     description:
       "Coleman’s Skydome series improves upon its classic dome tent by adding steeper walls to raise the headroom to six feet, in the case of the six-person model.",
-    price: 129.99,
+    price: 129.9,
   },
   {
     id: "m3",
