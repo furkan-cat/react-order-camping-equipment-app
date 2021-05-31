@@ -1,5 +1,4 @@
-import { useState } from "react"; // Generally you should add "React, ..."
-
+import { useState } from "react";
 import Header from "./components/Layout/Header";
 import Products from "./components/Products/Products";
 import Cart from "./components/Cart/Cart";
