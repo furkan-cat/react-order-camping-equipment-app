@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Builded by React. Choose products below that you desire. After that right on the up corner card button you can order products that you choose before.  
+Builded by React. Choose product below anything you want. After that on the top right-hand corner with card button you can order products that you choose before. 
 
 [Project-Demo](https://react-order-camping-equipment-app.netlify.app)
 
